@@ -1,6 +1,6 @@
 ## Deep Reinforcement Learning
 
-To effectively learn Deep Reinforcement Learning (DRL), it's important to establish a solid foundation in several key areas. Below is a structured roadmap outlining the topics and skills needed to master DRL.
+To effectively learn Deep Reinforcement Learning (DRL), it's important to establish a solid foundation in several key areas. Below is a structured roadmap outlining the topics and skills needed to master [DRL](https://en.wikipedia.org/wiki/Deep_reinforcement_learning).
 
 ### 1. Prerequisites
 
