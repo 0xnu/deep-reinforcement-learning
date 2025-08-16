@@ -2,7 +2,9 @@
 
 To effectively learn Deep Reinforcement Learning (DRL), it's important to establish a solid foundation in several key areas. Below is a structured roadmap outlining the topics and skills needed to master [DRL](https://en.wikipedia.org/wiki/Deep_reinforcement_learning).
 
-### 1. Prerequisites
+### Learning Path
+
+#### 1. Prerequisites
 
 Before getting started with DRL, ensure you have a solid understanding of the following foundational topics:
 
@@ -15,7 +17,7 @@ Before getting started with DRL, ensure you have a solid understanding of the fo
   - **Python**: The primary language for machine learning and deep learning.
   - **Libraries**: Familiarity with NumPy, Pandas, and Matplotlib for data manipulation and visualization.
 
-### 2. Machine Learning Basics
+#### 2. Machine Learning Basics
 
 Understanding the fundamentals of machine learning is necessary before moving on to deep learning and reinforcement learning.
 
@@ -27,7 +29,7 @@ Understanding the fundamentals of machine learning is necessary before moving on
 - **Resources**
   - Online courses (e.g., Coursera, edX) on machine learning basics.
 
-### 3. Deep Learning Fundamentals
+#### 3. Deep Learning Fundamentals
 
 Deep learning is a subset of machine learning that uses neural networks. Familiarize yourself with the following:
 
@@ -44,7 +46,7 @@ Deep learning is a subset of machine learning that uses neural networks. Familia
   - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) by Andrew Ng on Coursera.
   - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://amzn.to/4mPf2GS) by Aurélien Géron.
 
-### 4. Introduction to Reinforcement Learning
+#### 4. Introduction to Reinforcement Learning
 
 Start exploring the principles of reinforcement learning:
 
@@ -60,7 +62,7 @@ Start exploring the principles of reinforcement learning:
 - **Resources**
   - [Reinforcement Learning: An Introduction](https://amzn.to/45GIiIQ) by Richard S. Sutton and Andrew G. Barto.
 
-### 5. Deep Reinforcement Learning
+#### 5. Deep Reinforcement Learning
 
 Combine deep learning with reinforcement learning techniques:
 
@@ -75,7 +77,7 @@ Combine deep learning with reinforcement learning techniques:
   - [Deep Reinforcement Learning Hands-On](https://amzn.to/3UvWOhi) by Maxim Lapan.
   - Online tutorials and courses focused on DRL.
 
-### 6. Practical Applications and Projects
+#### 6. Practical Applications and Projects
 
 Apply your knowledge through hands-on projects:
 
@@ -89,7 +91,7 @@ Apply your knowledge through hands-on projects:
 - **Resources**
   - Kaggle competitions and GitHub repositories for project ideas.
 
-### 7. Advanced Topics and Specialization
+#### 7. Advanced Topics and Specialization
 
 Once you have a solid grasp of DRL, consider exploring advanced topics:
 
@@ -100,7 +102,7 @@ Once you have a solid grasp of DRL, consider exploring advanced topics:
 - **Resources**
   - Research papers and advanced courses on specialized topics.
 
-### 8. Deployment and MLOps
+#### 8. Deployment and MLOps
 
 Learn how to deploy your models in real-world applications:
 
