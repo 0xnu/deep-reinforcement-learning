@@ -129,8 +129,8 @@ This project is licensed under the [Modified MIT License](./LICENSE).
   year         = 2025,
   version      = {0.0.1},
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.15937532},
-  url          = {https://doi.org/10.5281/zenodo.15937532}
+  doi          = {10.5281/zenodo.16886240},
+  url          = {https://doi.org/10.5281/zenodo.16886240}
 }
 ```
 
