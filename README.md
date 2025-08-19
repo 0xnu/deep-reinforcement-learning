@@ -17,6 +17,10 @@ Before getting started with DRL, ensure you have a solid understanding of the fo
   - **Python**: The primary language for machine learning and deep learning.
   - **Libraries**: Familiarity with NumPy, Pandas, and Matplotlib for data manipulation and visualization.
 
+- **Resources**
+  - [Mathematics of Machine Learning](https://amzn.to/4oFmDcu) by by Tivadar Danka.
+  - [Essential Math for Data Science](https://amzn.to/4lyEWNI) by Thomas Nield.
+
 #### 2. Machine Learning Basics
 
 Understanding the fundamentals of machine learning is necessary before moving on to deep learning and reinforcement learning.
