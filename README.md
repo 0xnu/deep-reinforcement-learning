@@ -31,7 +31,8 @@ Understanding the fundamentals of machine learning is necessary before moving on
   - **Model Evaluation**: Metrics like accuracy, precision, recall, and F1 score.
 
 - **Resources**
-  - Online courses (e.g., Coursera, edX) on machine learning basics.
+  - [Designing Machine Learning Systems](https://amzn.to/41VKiM2) by Chip Huyen
+  - [Introduction to Machine Learning with Python](https://amzn.to/4fNYwUU) by Andreas C. Mueller and Sarah Guido
 
 #### 3. Deep Learning Fundamentals
 
