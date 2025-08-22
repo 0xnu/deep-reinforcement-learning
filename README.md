@@ -20,6 +20,7 @@ Before getting started with DRL, ensure you have a solid understanding of the fo
 - **Resources**
   - [Mathematics of Machine Learning](https://amzn.to/4oFmDcu) by by Tivadar Danka.
   - [Essential Math for Data Science](https://amzn.to/4lyEWNI) by Thomas Nield.
+  - [Lecture Notes on Probability, Statistics and Linear Algebra](https://people.math.harvard.edu/~knill/teaching/math19b_2011/handouts/chapters1-19.pdf) by C. H Taubes.
 
 #### 2. Machine Learning Basics
 
