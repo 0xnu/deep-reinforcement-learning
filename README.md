@@ -33,8 +33,9 @@ Understanding the fundamentals of machine learning is necessary before moving on
   - **Model Evaluation**: Metrics like accuracy, precision, recall, and F1 score.
 
 - **Resources**
-  - [Designing Machine Learning Systems](https://amzn.to/41VKiM2) by Chip Huyen
-  - [Introduction to Machine Learning with Python](https://amzn.to/4fNYwUU) by Andreas C. Mueller and Sarah Guido
+  - [Designing Machine Learning Systems](https://amzn.to/41VKiM2) by Chip Huyen.
+  - [Introduction to Machine Learning with Python](https://amzn.to/4fNYwUU) by Andreas C. Mueller and Sarah Guido.
+  - [Introduction to Machine Learning](https://introml.mit.edu/_static/spring24/LectureNotes/6_390_lecture_notes_spring24.pdf) by MIT.
 
 #### 3. Deep Learning Fundamentals
 
